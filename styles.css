@@ -35,7 +35,7 @@ a:hover{
     text-decoration: none;
   }
 #background{
-  background-image: url(picture/sunrise.jpg);
+  background-image: url("picture/sunrise.jpg");
 }
 
 #backpacker{
