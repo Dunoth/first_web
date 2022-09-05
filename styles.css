@@ -18,8 +18,8 @@ p{
 
 th{
     font-family: "Quicksand", sans-serif;
-    font-size: 50px;
-    text-align: left;
+    font-size: medium;
+    display: inline-block;
     color: black;
   }
 
@@ -37,7 +37,7 @@ a:hover{
 
 #backpacker{
     font-family: 'Raleway', sans-serif;
-    font-size: 30px;
+    font-size: 50px;
     font-style: normal;
     text-align: center;
     color: lightsalmon;
@@ -45,7 +45,7 @@ a:hover{
 
 #develope{
     font-family: 'Raleway', sans-serif;
-    font-size: 30px;
+    font-size: 50px;
     font-style: normal;
     text-align: center;
     color:rgba(128, 47, 0, 0.899);
@@ -53,12 +53,19 @@ a:hover{
 
 #experience{
     font-family: 'Raleway', sans-serif;
-    font-size: 30px;
+    font-size: 50px;
     font-style: normal;
     text-align: center;
     color: rgba(200, 255, 122, 0.625);
 }
 
+.first{
+  text-align: center;
+  font-size: large;
+  font-weight: 400;
+  font-family: 'Raleway' sans-serif;
+  background-color: moccasin;
+}
 .contact{
     color: #736B92;
     display: inline-block;
