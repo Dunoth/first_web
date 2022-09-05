@@ -1,11 +1,9 @@
-html{
-  background-image: url("sunrise.jpg");
-}
 body{
     background-color: #ffffff;
     margin: 0px;
     padding:0px;
     overflow: scroll;
+    background-image: url("sunrise.jpg");
     }
 
 div{
