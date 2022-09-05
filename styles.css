@@ -3,7 +3,6 @@ body{
     margin: 0px;
     padding:0px;
     overflow: scroll;
-    background-image: url("C:\Users\shwan\OneDrive\文件\Codecademy\Firstweb\picture\sunrise.jpg");
     }
 
 div{
@@ -35,6 +34,9 @@ a:hover{
     color: darkgoldenrod;
     text-decoration: none;
   }
+#background{
+  background-image: url(picture/sunrise.jpg);
+}
 
 #backpacker{
     font-family: 'Raleway', sans-serif;
