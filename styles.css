@@ -1,0 +1,80 @@
+body{
+    background-color: #ffffff;
+    margin: 0px;
+    padding:0px;
+    overflow: scroll;
+    }
+
+div{
+  display: block;
+}
+
+p{
+    font-family: "Quicksand", sans-serif;
+    font-size: 30px;
+    text-align: justify;
+    color: black;
+  }
+
+th{
+    font-family: "Quicksand", sans-serif;
+    font-size: 50px;
+    text-align: left;
+    color: black;
+  }
+
+td{
+    font-family: "Quicksand", sans-serif;
+    font-size: 20px;
+    text-align: left;
+    color: black;
+  }
+
+a:hover{
+    color: darkgoldenrod;
+    text-decoration: none;
+  }
+
+#backpacker{
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    text-align: center;
+    color: lightsalmon;
+}
+
+#develope{
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    text-align: center;
+    color:rgba(128, 47, 0, 0.899);
+}
+
+#experience{
+    font-family: 'Raleway', sans-serif;
+    font-size: 30px;
+    font-style: normal;
+    text-align: center;
+    color: rgba(200, 255, 122, 0.625);
+}
+
+.contact{
+    color: #736B92;
+    display: inline-block;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    letter-spacing: 2px;
+    padding: 10px 40px;
+    text-transform: uppercase;
+}
+
+.coninfo{
+    color: #736B92;
+    display: inline-block;
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+    padding: 10px 40px;
+}
