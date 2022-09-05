@@ -3,6 +3,7 @@ body{
     margin: 0px;
     padding:0px;
     overflow: scroll;
+    background-image: url("picture/sun.jpg");
     }
 
 div{
@@ -34,9 +35,6 @@ a:hover{
     color: darkgoldenrod;
     text-decoration: none;
   }
-#background{
-  background-image: url("picture/sunrise.jpg");
-}
 
 #backpacker{
     font-family: 'Raleway', sans-serif;
