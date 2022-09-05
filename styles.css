@@ -3,8 +3,7 @@ body{
     margin: 0px;
     padding:0px;
     overflow: scroll;
-    opacity: 0.2;
-    background-image: url(images/sunrise.jpg) ;
+    background-image: url(images/sunrise.jpg);
     }
 
 div{
@@ -61,9 +60,9 @@ a:hover{
     color: rgba(200, 255, 122, 0.625);
 }
 
-h1.first{
-  text-align: center;
-  font-size: 80%;
+.first{
+  text-align: left;
+  font-size: 60px;
   font-weight: 400;
   font-family: 'Raleway' sans-serif;
   background-color: moccasin;
