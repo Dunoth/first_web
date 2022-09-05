@@ -3,7 +3,7 @@ body{
     background-image: url("picture/sun2.jpg");
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-position: left top center;
+    background-position: center;
     background-size: cover;
     }
 
