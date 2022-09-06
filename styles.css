@@ -24,7 +24,7 @@ p{
     display: block;
   }
 
-th{
+tr{
     font-family: "Quicksand", sans-serif;
     font-size: medium;
     display: inline-block;
@@ -39,7 +39,7 @@ td{
   }
 
 a:hover{
-    color: darkgoldenrod;
+    color:navy;
     text-decoration: none;
   }
 
