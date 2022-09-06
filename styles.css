@@ -9,13 +9,19 @@ body{
 
 div{
   display: block;
-}
+  }
+
+header{
+  padding: 20px 20px;
+  position: fixed;
+  }
 
 p{
     font-family: "Quicksand", sans-serif;
     font-size: 30px;
     text-align: justify;
-    color: black;
+    color:beige;
+    display: block;
   }
 
 th{
@@ -61,12 +67,19 @@ a:hover{
     color: rgba(200, 255, 122, 0.625);
 }
 
+.breadcromb{
+  color:antiquewhite;
+  display: inline;
+  font-size: 20px;
+  font-family: "Quicksand" serif;
+}
+
 .first{
   text-align: left;
   font-size: 60px;
   font-weight: 400;
   font-family: 'Raleway' sans-serif;
-  background-color: moccasin;
+  background-color:floralwhite;
 }
 
 .contact{
