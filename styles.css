@@ -13,7 +13,8 @@ div{
 
 header{
   padding: 20px 20px;
-  position: fixed;
+  position: relative;
+  top: 10px;
   }
 
 p{
@@ -21,7 +22,9 @@ p{
     font-size: 30px;
     text-align: justify;
     color:beige;
-    display: block;
+    box-sizing: content-box;
+    padding: 10px;
+    height: auto;
   }
 
 tr{
@@ -83,7 +86,7 @@ a:hover{
 }
 
 .contact{
-    color: #736B92;
+    color: #e5e3ed;
     display: inline-block;
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
@@ -94,7 +97,7 @@ a:hover{
 }
 
 .coninfo{
-    color: #736B92;
+    color: #e0dbf1;
     display: inline-block;
     font-family: 'Raleway', sans-serif;
     font-size: 16px;
